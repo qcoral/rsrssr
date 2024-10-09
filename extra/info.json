@@ -1,0 +1,11 @@
+{
+    "uuid": "version5UUID",
+    "url": "https:/rsrssr.alexren.me/",
+    "icon": "url",
+    "name": "Alex's garden",
+    "connections": [
+        "uuid": "version5UUID",
+        "uuid": "version5UUID",
+        ... etc
+    ]
+}
